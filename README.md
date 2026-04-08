@@ -4,6 +4,8 @@ A free Telegram automation platform built for fast, simple, and reliable channel
 
 TeleMirror Pro helps users automate Telegram forwarding workflows, manage connected sessions, and control everything through an easy web dashboard and Telegram bot.
 
+Telegram automation, Telegram forwarding, Telegram bot, channel forwarding, message forwarder, multi-user Telegram platform, Telegram dashboard, workflow automation
+
 ## Why TeleMirror Pro?
 
 - Free to use
